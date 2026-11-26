@@ -1,0 +1,16 @@
+{
+  "Logistic Regression": {
+    "clf__C": 100,
+    "clf__class_weight": null
+  },
+  "Decision Tree": {
+    "clf__criterion": "entropy",
+    "clf__max_depth": 16,
+    "clf__min_samples_leaf": 1
+  },
+  "Random Forest": {
+    "clf__max_depth": null,
+    "clf__min_samples_leaf": 1,
+    "clf__n_estimators": 200
+  }
+}

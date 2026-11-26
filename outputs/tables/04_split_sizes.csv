@@ -1,0 +1,4 @@
+,records,attack_share
+train-fit (60%),33567,0.3885661512795305
+validation (20%),11189,0.3885959424434713
+"test (20%, untouched)",11189,0.3885959424434713

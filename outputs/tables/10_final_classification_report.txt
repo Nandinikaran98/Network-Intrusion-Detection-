@@ -1,0 +1,11 @@
+Model: Random Forest
+Params: {'clf__max_depth': None, 'clf__min_samples_leaf': 1, 'clf__n_estimators': 200}
+
+              precision    recall  f1-score   support
+
+      Normal     0.9705    0.9806    0.9755      6841
+      Attack     0.9689    0.9531    0.9609      4348
+
+    accuracy                         0.9699     11189
+   macro avg     0.9697    0.9668    0.9682     11189
+weighted avg     0.9699    0.9699    0.9698     11189

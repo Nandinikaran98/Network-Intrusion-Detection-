@@ -1,0 +1,4 @@
+,best_params,cv_f1,cv_recall,cv_precision,cv_accuracy,combinations
+Logistic Regression,"{""clf__C"": 100, ""clf__class_weight"": null}",0.9067774225061578,0.9012609154118587,0.9123854198398049,0.9279999999999999,10
+Decision Tree,"{""clf__criterion"": ""entropy"", ""clf__max_depth"": 16, ""clf__min_samples_leaf"": 1}",0.9365521641439936,0.9250238599295203,0.9483753918263694,0.9513,16
+Random Forest,"{""clf__max_depth"": null, ""clf__min_samples_leaf"": 1, ""clf__n_estimators"": 200}",0.9508957241017415,0.9394357724546405,0.9626634905930593,0.9623000000000002,12
